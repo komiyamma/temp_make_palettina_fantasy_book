@@ -34,6 +34,12 @@
 - 多くの人が号泣してしまうほどのもので！
 - 人類史上最高にして至高！ 究極レベルの100年残る名作にして！
 
+# 方向性のヒント
+- hint/01_market_trend_analysis_future.md
+- hint/02_top_raking_commonalities_future.md
+を方向性や狙いのヒントとすること。
+
+
 # 保存ファイル名
 - その時のUTCタイムスタンプ.txt とすること。
  （例）1771636843596.txt
